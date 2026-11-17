@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HydroSync SMS Gateway</string>
+    <string name="default_webhook_url">https://mwater.vercel.app/api/sms/incoming</string>
+    <string name="default_secret"></string>
+    <string name="default_keywords"></string>
+</resources>
